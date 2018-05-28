@@ -4,7 +4,7 @@
 - I have first converted the tables into csv files and used Pandas library.
 - I have taken USER,PRICE as a primary key for joining both the tables.
 - Also changed Price column name for joining both the tables.
-- The final_table shows the difference between the quantity that were to be executed and the quantity that were actually executed.
+- The `final_table or output.csv` file shows the difference between the quantity that were to be executed and the quantity that were actually executed.
 
 
 ## Note:
